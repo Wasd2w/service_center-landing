@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Wasd2w.github.io/service_center-landing/sitemap.xml
